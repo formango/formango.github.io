@@ -14,15 +14,15 @@
 
 <body>
 
-<table id="tbInformation" width="100%">
-	<tr>
+//<table id="tbInformation" width="100%">
+	//<tr>
 		<td width="500">
 		<h1>高云浩</h1>
 		</td>
 		<td rowspan="3" align="center">
 		<img src="./t_files/eason.jpg" border="0" height="200" class="portrait">
 		</td>
-	</tr>
+	//</tr>
 	<tr>
 		<td>
 		<p style="line-height:1.8">
