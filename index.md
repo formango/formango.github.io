@@ -44,7 +44,7 @@
 
 <h3>教育经历</h3>
 <ul>
-<li>2017年9月-至今 &nbsp &nbsp &nbsp 中国海洋大学信息科学与工程学院 &nbsp &nbsp 硕士 <br>
+<li>2017年9月-至今 &nbsp &nbsp &nbsp&nbsp&nbsp 中国海洋大学信息科学与工程学院 &nbsp &nbsp 硕士 <br>
 <li>2013年9月-2017年7月 &nbsp &nbsp  中国海洋大学信息科学与工程学院 &nbsp &nbsp 学士<br>
 </ul>
 
