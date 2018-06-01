@@ -1,0 +1,381 @@
+nav{
+	background: #ccc;
+	height: 50px;
+	position: fixed;
+	top:0px;
+	width:100%;
+	z-index: 20;
+	/*left: 0px;*/
+}
+
+#banner{
+	margin-top: 50px;
+	/*background: #777;*/
+	height: 700px;
+	background: rgba(0, 0, 0, 0.1);
+}
+
+ul{
+	margin:0;
+}
+
+nav ul{
+	list-style: none;
+	float :right;
+	margin: 0;
+}
+
+nav ul li, nav .logo{
+	display: inline-block;
+	line-height: 50px;
+	margin-right: 20px;
+}
+
+nav ul li a {
+	line-height: 50px;
+	text-decoration: none;
+	display: inline-block;
+	line-height: inherit;
+	height: inherit;
+	color:#fff;
+
+}
+
+
+
+#banner .inner{
+	max-width:300px;
+	text-align:center;
+	position:relative;
+	top:150px;
+	margin:0 auto;
+	color:#3ef;
+}
+
+#banner .inner h1{
+	margin: 0;
+}
+
+button
+{
+	border:none;
+	background: #333;
+	color: #eee;
+	padding:10px;
+}
+
+#banner .inner button{
+
+	padding: 20px 40px;
+}
+
+.sub-heading{
+	line-height:30px;
+}
+
+.more{
+	margin-top: 200px;
+}
+
+nav .logo {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+	/*display: inline-block; */
+	line-height: 50px;  /*这个是我为了居中，就和nav设置成一样的大小*/
+	padding-left:10px;  /*这个是我为了增大log的体积*/
+}
+
+nav .logo a{
+	color:#fff;
+	text-decoration: none
+}
+
+hr{
+	height: 2px;
+	margin: 0px;
+	border:none;
+	border-top: solid #fff;
+}
+
+.hrline-top{
+	margin-bottom: 5px;
+}
+
+.hrline-bottom{
+	margin-top: 5px;
+}
+
+h2{
+	font-size: 30px;
+	margin: 0px;
+}
+
+h3{
+	margin:0px;
+}
+
+.wrapper{
+	max-width: 1080px;
+	margin: 0 auto;
+}
+
+.green-section{
+	text-align: center;
+	background: #20c6d0;
+	padding: 100px;
+	color: #fff;
+}
+
+.hr{
+
+	width: 60%;
+	height: 2px;
+	margin:20px auto;
+	background: #40aba2;
+}
+
+.wrapper .icon-group{
+	margin-top: 60px;
+}
+
+.wrapper .icon-group .icon{
+	display: inline-block;
+	width: 80px;
+	height:80px;
+	background: #40abaa;
+	transform: rotate(45deg);
+	margin: 20px;
+}
+
+
+
+
+.videoWrapper{
+	position: absolute;
+	width: 100%;
+	z-index: 5;
+}
+
+#bgv{
+	width:100%;
+}
+
+.videoText{
+	height: 800.44px;
+	position: relative;
+	z-index:10;
+	color: #fff;
+	text-align: center;
+	overflow: hidden;
+	/*padding:20px 0px;*/ 
+	/*在高度设定的情况下，在增加padding会增加尺寸*/
+}
+
+.videoText h3{
+	margin-top: 100px;
+	font-size: 30px;
+}
+
+.gray-section{
+	background: #696060;
+
+}
+
+.gray-section .article-preview .img-section{
+	width: 45%;
+	display: inline-block;
+}
+
+.gray-section .article-preview .img-section img{
+	width: 100%;
+}
+
+.gray-section .article-preview .text-section{
+	color: #fff;
+	width: 55%;
+}
+
+.gray-section .article-preview > div{
+		float: left;
+}
+
+
+
+/*.article-preview:after{
+	content:"";
+	display:block;
+	clear: both;
+}*/
+
+.article-preview{
+	overflow: hidden;
+	width:100%;
+	font-size: 0;
+	/*height : 295;*/
+}
+.article-preview:nth-child(odd){
+	background-color: rgba(255,255,255,0.05);
+}
+
+#ads{
+	/*display:inline-block;*/
+	/*float:right;*/
+	width: 50px;
+	height: 50px;
+	background-color: #000;
+	color: #fff;
+	top: 50%;
+	right: 0px;
+	/*bottom: 0px;*/
+  	/*right: 0px;*/
+  	/*margin: 5% auto;*/
+  	/*margin-top: -25px;*/
+  	/*margin-left:-25px;*/
+	position: fixed;
+}
+
+.text-section{
+
+	position:relative;
+	top:  68px;
+	left: 50px;
+}
+
+.text-section h2{
+	margin-bottom: 20px;
+}
+
+.text-section .sub-heading{
+	font-size: 22px;
+
+}
+
+.text-section p{
+	font-size:18px;
+	letter-spacing:1px;
+}
+
+.text-section *{
+	max-width: 90%;
+}
+
+.bfc{
+	overflow:hidden;
+}
+.purple-section{
+	padding: 50px 300px;
+	background: #3F3965;
+	color:#fff;
+}
+
+.purple-section  .heading-wrapper{
+
+	text-align: center;
+	margin: 0 auto ;
+	
+}
+
+
+.purple-section .hr{
+	background: #373259;
+	width:60%;
+}
+
+
+
+.card{
+	float:left;
+	width:50%;
+	min-height:300px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding:50px;
+	/*border: 1px solid white;*/
+}
+
+.card:first-child{
+	background: rgba(0, 0, 0, 0.04);
+} 
+
+.card:nth-child(2){
+	background: rgba(0, 0, 0, 0.08);
+}
+
+.card:nth-child(3){
+	background: rgba(0, 0, 0, 0.12);
+}
+.card:nth-child(4){
+	background: rgba(0, 0, 0, 0.16);
+}
+.card:nth-child(5){
+	background: rgba(0, 0, 0, 0.20);
+}
+.card:nth-child(6){
+	background: rgba(0, 0, 0, 0.24);
+}
+
+
+footer{
+	/*background: #333;*/
+	color: #498;
+	font-size:20px;
+	min-height: 200px;
+	text-align: center;
+	background: #444 url(../img/foot-bgp.jpg);
+	/*background-attachment:fixed;*/
+	background-repeat:no-repeat;
+	background-position:  center;
+}
+
+
+.copyright{
+	background: rgba(51,51,51,0.95);
+	
+}
+
+.share-group{
+	width: 89%;
+	margin: 0 auto;
+	padding: 50px;
+	
+
+}
+
+.share-group li{
+
+	display:inline-block;
+	padding:10px;
+}
+
+.main-wrapper{
+	background: #444 url(../img/bgp.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:  center;
+}
+
+.profile-wrapper{
+
+	height: 400px;
+	padding: 10px;
+}
+
+.profile{
+	/*max-height: 400px;*/
+	height: 200px;
+	margin-top: 200px;
+
+
+
+}
+
+.profile > span:nth-child(1){
+	font-size: 30px;
+}
+
+.profile  > span:nth-child(2){
+	font-size: 30px;
+}
