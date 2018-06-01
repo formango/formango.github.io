@@ -26,42 +26,37 @@
 	<tr>
 		<td>
 		<p style="line-height:1.8">
-        中国海洋大学 &nbsp&nbsp 信息科学与工程学院<br>
+        中国海洋大学 &nbsp &nbsp 信息科学与工程学院<br>
 		计算机科学与技术系<br>
-		Email: XXXXX AT ouc DOT edu DOT cn <br>
-		Github: github.com/XXXXXX<br>
-		工作技能：Python, C++, HTML, 机器学习, 遥感图像处理<br>
+		Email: gaoyunhao@stu.ouc.edu.cn <br>
+		Github: https://formango.github.io<br>
+		工作技能：Python, C++, Matlab, 机器学习, 遥感图像处理<br>
 		</p>
 	</tr>
 </table>
 <hr>
 
 <h3>基本信息</h3>
-<p>I am a Professor at Department of Computer Science and Technology and also affiliated with State Key Laboratory for Novel Software Technology, Nanjing University. </p>
+<p>高云浩，山东烟台人，目前在中国海洋大学信息科学与工程学院计算机系攻读硕士学位。研究方向为基于深度学习的遥感图像变化检测、多源遥感图像的数据融合及数据分析 </p>
 
-<p>Previously, I received the B.S. degree from Nanjing University in 2011, and the Ph.D. degree from The Chinese University of Hong Kong under the supervision of Prof. Xiaoou Tang in 2015. From 2015 to 2018, I was a Post-Doctoral Researcher with Prof. Luc Van Gool in the Computer Vision Laboratory (CVL) at ETH Zurich.</p>
+<p>I am studying for master's degree in Computer Department of information science and Engineering College of Ocean University of China. The research direction is remote sensing image change detection based on deep learning, data fusion and data analysis of multi-source remote sensing images.</p>
 <hr>
 
-<h3>项目经历</h3>
+<h3>教育经历</h3>
 <ul>
-<li>北京创客空间 - 实习生<br>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<li>实验楼 - 课程内容<br>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<li>2017年9月-至今 &nbsp &nbsp &nbsp 中国海洋大学信息科学与工程学院 &nbsp &nbsp 硕士 <br>
+<li>2013年9月-2017年7月 &nbsp &nbsp  中国海洋大学信息科学与工程学院 &nbsp &nbsp 学士<br>
 </ul>
 
 
 <h3>发表论文</h3>
 <ul>
-<li> <b>Eason Chen</b>, W. Li, W. Li, and L. Van Gool. Appearance-and-Relation Networks for Video Classification. in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. 
-<li> <b>Eason Chen</b>, Z. Wang, Y. Qiao, and L. Van Gool. Transferring Deep Object and Scene Representations for Event Recognition in Still Images. in International Journal of Computer Vision (IJCV), 2017. 
+<li> <b>Yunhao Gao, Feng Gao, Junyu Dong, Shengke Wang. Sea ice change detection in SAR images based on collaborative representation. Submitted to IGARSS 2018. 
 </ul>
 <hr>
 
 <h3>获奖经历</h3>
 <ul>
-<li> 2017年第七届“华为杯”中国大学生智能设计竞赛二等奖
-<li> 2016年第六届“华为杯”中国大学生智能设计竞赛三等奖
 <li> 统一冰红茶“再来一瓶”奖
 </ul>
 <hr>
