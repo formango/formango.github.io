@@ -15,14 +15,14 @@
 <body>
 
 //<table id="tbInformation" width="100%">
-	//<tr>
+	<tr>
 		<td width="500">
 		<h1>高云浩</h1>
 		</td>
 		<td rowspan="3" align="center">
 		<img src="./t_files/eason.jpg" border="0" height="200" class="portrait">
 		</td>
-	//</tr>
+	</tr>
 	<tr>
 		<td>
 		<p style="line-height:1.8">
@@ -33,14 +33,14 @@
 		工作技能：Python, C++, Matlab, 机器学习, 遥感图像处理<br>
 		</p>
 	</tr>
-</table>
-<hr>
+//</table>
+//<hr>
 
 <h3>基本信息</h3>
 <p>高云浩，山东烟台人，目前在中国海洋大学信息科学与工程学院计算机系攻读硕士学位。研究方向为基于深度学习的遥感图像变化检测、多源遥感图像的数据融合及数据分析 </p>
 
 <p>I am studying for master's degree in Computer Department of information science and Engineering College of Ocean University of China. The research direction is remote sensing image change detection based on deep learning, data fusion and data analysis of multi-source remote sensing images.</p>
-<hr>
+//<hr>
 
 <h3>教育经历</h3>
 <ul>
@@ -53,7 +53,7 @@
 <ul>
 <li> <b>Yunhao Gao, Feng Gao, Junyu Dong, Shengke Wang. Sea ice change detection in SAR images based on collaborative representation. Submitted to IGARSS 2018. 
 </ul>
-<hr>
+//<hr>
 
 <h3>获奖经历</h3>
 <ul>
