@@ -44,7 +44,7 @@ nav ul li a {
 
 
 #banner .inner{
-	max-width:320px;
+	max-width:330px;
 	text-align:center;
 	position:relative;
 	top:150px;
@@ -66,7 +66,7 @@ button
 
 #banner.inner button{
 
-	padding: 40px 40px;
+	padding: 20px 40px;
 }
 
 .sub-heading{
