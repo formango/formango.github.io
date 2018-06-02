@@ -44,7 +44,7 @@ nav ul li a {
 
 
 #banner .inner{
-	max-width:330px;
+	max-width:450px;
 	text-align:center;
 	position:relative;
 	top:150px;
@@ -61,7 +61,7 @@ button
 	border:none;
 	background: #333;
 	color: #eee;
-	padding:20px;
+	padding:25px;
 }
 
 #banner.inner button{
@@ -74,7 +74,7 @@ button
 }
 
 .more{
-	margin-top: 200px;
+	margin-top: 180px;
 }
 
 nav .logo {
@@ -142,8 +142,8 @@ h3{
 
 .wrapper .icon-group .icon{
 	display: inline-block;
-	width: 80px;
-	height:80px;
+	width: 60px;
+	height:60px;
 	background: #696060;
 	transform: rotate(45deg);
 	margin: 20px;
@@ -286,13 +286,13 @@ h3{
 
 
 .card{
-	float:left;
-	width:50%;
-	min-height:200px;
+	float:none;
+	width:100%;
+	min-height:90px;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
-	padding:50px;
+	padding:20px;
 	/*border: 1px solid white;*/
 }
 
@@ -324,8 +324,8 @@ footer{
 	font-size:20px;
 	min-height: 200px;
 	text-align: center;
-	background: #444 url(../img/foot-bgp.jpg);
-	/*background-attachment:fixed;*/
+	background: #444 url(../img/32-1.jpg);
+	background-attachment:scroll;
 	background-repeat:no-repeat;
 	background-position:  center;
 }
