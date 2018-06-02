@@ -132,7 +132,7 @@ h3{
 
 	width: 60%;
 	height: 2px;
-	margin:20px auto;
+	margin:15px auto;
 	background: #40aba2;
 }
 
@@ -288,7 +288,7 @@ h3{
 .card{
 	float:left;
 	width:50%;
-	min-height:300px;
+	min-height:200px;
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
