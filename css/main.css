@@ -117,13 +117,13 @@ h3{
 }
 
 .wrapper{
-	max-width: 1080px;
+	max-width: 720px;
 	margin: 0 auto;
 }
 
 .green-section{
 	text-align: center;
-	background: #FFD360;
+	background: #FFD154;
 	padding: 100px;
 	color: #fff;
 }
